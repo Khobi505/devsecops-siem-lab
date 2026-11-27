@@ -1,0 +1,7 @@
+*.vdi
+*.vmdk
+*.iso
+*.pem
+.env
+*.tfstate
+*.tfstate.backup
